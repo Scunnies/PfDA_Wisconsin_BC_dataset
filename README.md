@@ -1,5 +1,7 @@
-# PfDA_Wisconsin_BC_dataset
-Assignment to investigate the Wisconsin Breast Cancer dataset# PfDA_Assignment
+# Programming for Data Analysis
+
+## Investigating the Wisconsin Breast Cancer Dataset
+Assignment to investigate the Wisconsin Breast Cancer dataset
 ***
 
 This repository contains my second submission for the Programming for Data Analysis module at ATU as part of the Higher Diploma in Computing in Data Analytics.
