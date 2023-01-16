@@ -39,4 +39,4 @@ On GitHub at https://github.com/Scunnies/PfDA_Wisconsin_BC_dataset click the gre
 
 ### References 
 
-References are listed at the end of the notebook.  
+Harvard referencing style is used in this notebook. In-text citations are also hyperlinked to the relevant web resource (where available) and a full reference list is appended in the relevant section of the notebook.
